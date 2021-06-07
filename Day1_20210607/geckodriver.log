@@ -1,0 +1,24 @@
+1623041000296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PepHC2glGTTM"
+1623041001221	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.PepHC2glGTTM\\search.json.mozlz4", (void 0)))
+1623041004708	Marionette	INFO	Listening on port 62369
+1623041004840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623041012871	Marionette	INFO	Stopped listening on port 62369
+1623041023040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gRhGYKjZ7meD"
+1623041023791	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.gRhGYKjZ7meD\\search.json.mozlz4", (void 0)))
+1623041026851	Marionette	INFO	Listening on port 62779
+1623041026884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623041036121	Marionette	INFO	Stopped listening on port 62779
+1623041042594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.JsVfgYMr30eY"
+1623041043354	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.JsVfgYMr30eY\\search.json.mozlz4", (void 0)))
+1623041046330	Marionette	INFO	Listening on port 58897
+1623041046455	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623041049384	Marionette	INFO	Stopped listening on port 58897
